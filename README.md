@@ -51,7 +51,7 @@ Check out [this](https://github.com/gigabytedevelopers/CometOTP/wiki/Migration) 
 ## Downloads:
 
 [<img height=80 alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" />](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.CometOTP)
-[<img height=80 alt="Get it on GitHub" src="./assets/badges/get-it-on-github.png" />](https://github.com/gigabytedevelopers/CometOTP/releases)
+<!--[<img height=80 alt="Get it on GitHub" src="./assets/badges/get-it-on-github.png" />](https://github.com/gigabytedevelopers/CometOTP/releases)-->
 
 **Warning**: All three versions (Google Play, F-Droid and the APKs) are not compatible (not signed by the same key)!
 You will have to uninstall one to install the other, which will delete all your data.
@@ -66,15 +66,23 @@ So make sure you have a **current backup** before switching!
 
 ## Screenshots:
 
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_1.png">](./assets/screenshots/screen_1.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_2.png">](./assets/screenshots/screen_2.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_3.png">](./assets/screenshots/screen_3.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_4.png">](./assets/screenshots/screen_4.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257552-da64851c-cc93-4a49-8e74-e8583321258e.png">](https://user-images.githubusercontent.com/26168869/173257552-da64851c-cc93-4a49-8e74-e8583321258e.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257448-7555fb03-104d-44a8-b06f-d93abdb14ce7.png">](https://user-images.githubusercontent.com/26168869/173257448-7555fb03-104d-44a8-b06f-d93abdb14ce7.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173256771-d7985d49-0a64-4317-9ee3-1900d1f1d944.png">](https://user-images.githubusercontent.com/26168869/173256771-d7985d49-0a64-4317-9ee3-1900d1f1d944.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173256892-cd035490-266d-45c8-b113-5c25dc9a3346.png">](https://user-images.githubusercontent.com/26168869/173256892-cd035490-266d-45c8-b113-5c25dc9a3346.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173256946-e0c6fd38-38df-4e8c-960d-96dec96971ab.png">](https://user-images.githubusercontent.com/26168869/173256946-e0c6fd38-38df-4e8c-960d-96dec96971ab.png)
 
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_5.png">](./assets/screenshots/screen_5.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_6.png">](./assets/screenshots/screen_6.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_7.png">](./assets/screenshots/screen_7.png)
-[<img width=200 alt="Main Activity" src="./assets/screenshots/screen_8.png">](./assets/screenshots/screen_8.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257638-b3efd2f9-a098-4b4b-8ef0-9930aad67394.png">](https://user-images.githubusercontent.com/26168869/173257638-b3efd2f9-a098-4b4b-8ef0-9930aad67394.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257705-10f22ce1-1c64-4c29-a51f-78249bbc4436.png">](https://user-images.githubusercontent.com/26168869/173257705-10f22ce1-1c64-4c29-a51f-78249bbc4436.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257788-1a2fccb4-3cf6-4ae5-87c3-ee71fe36dbf2.png">](https://user-images.githubusercontent.com/26168869/173257788-1a2fccb4-3cf6-4ae5-87c3-ee71fe36dbf2.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257830-c3b7618e-260d-487c-8c6a-73d030bdbcba.png">](https://user-images.githubusercontent.com/26168869/173257830-c3b7618e-260d-487c-8c6a-73d030bdbcba.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173257883-a7224f07-3d90-4625-b51d-dfb23a045ff8.png">](https://user-images.githubusercontent.com/26168869/173257883-a7224f07-3d90-4625-b51d-dfb23a045ff8.png)
+
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173258478-57f57a45-6de0-47a6-bde6-977d2454cd5d.png">](https://user-images.githubusercontent.com/26168869/173258478-57f57a45-6de0-47a6-bde6-977d2454cd5d.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173259598-d46551a6-326e-44eb-8a7b-f41a422e7a14.png">](https://user-images.githubusercontent.com/26168869/173259598-d46551a6-326e-44eb-8a7b-f41a422e7a14.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173259052-0d68452c-fd35-4ee3-b384-1a73a51c8a9b.png">](https://user-images.githubusercontent.com/26168869/173259052-0d68452c-fd35-4ee3-b384-1a73a51c8a9b.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173258927-150104dc-b43b-4174-9365-b7c5ba20e0f8.png">](https://user-images.githubusercontent.com/26168869/173258927-150104dc-b43b-4174-9365-b7c5ba20e0f8.png)
+[<img width=198 alt="Main Activity" src="https://user-images.githubusercontent.com/26168869/173259528-d5f82689-060d-4a55-b9f5-d0de8beb1fa1.png">](https://user-images.githubusercontent.com/26168869/173259528-d5f82689-060d-4a55-b9f5-d0de8beb1fa1.png)
 
 ## Acknowledgments:
 #### Open-source components used:
