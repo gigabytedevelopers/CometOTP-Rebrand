@@ -1,5 +1,5 @@
-# CometOTP-Rebrand -  Android Two Factor (2FA) OTP Authenticator
-A rebrand for https://github.com/gigabytedevelopers/CometOTP (A powerful two-factor authentication app for Android)
+# CometOTP-Rebrand - Two Factor (2FA) OTP Authenticator App
+A rebrand for [CometOTP](https://github.com/gigabytedevelopers/CometOTP) (A powerful two-factor authentication app for Android and iOS)
 
 <!-- [![Build Status](https://travis-ci.org/gigabytedevelopers/CometOTP.svg?branch=master)](https://travis-ci.org/gigabytedevelopers/CometOTP)
 [![Current release](https://img.shields.io/github/v/release/gigabytedevelopers/CometOTP.svg?token=e52dc09de66b2a3a280415155904a2a059c8c0a3)](https://github.com/gigabytedevelopers/CometOTP/releases/download/v3.0.0/CometOTP_v3.0.0.apk) -->
@@ -8,7 +8,7 @@ A rebrand for https://github.com/gigabytedevelopers/CometOTP (A powerful two-fac
 
 
 It implements HMAC-Based One-Time Passwords (HOTP) and Time-based One-time Passwords (TOTP) like specified in RFC 6238.  
-Simply scan the QR code and login with the generated 6-digit code. 
+Simply scan the QR code and login with the generated digit code(s). 
 
 ## Features:
 
